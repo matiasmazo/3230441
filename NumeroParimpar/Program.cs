@@ -1,4 +1,6 @@
 ﻿
+using System.Xml;
+
 do
 {
     Console.WriteLine("Ingrese un numero");
@@ -14,6 +16,8 @@ else
 }
 
  } while (true) ;
+
+
 
 
 
